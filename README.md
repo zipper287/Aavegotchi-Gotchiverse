@@ -201,3 +201,6 @@ This repository serves as the official landing page for Aavegotchi: Gotchiverse.
 - 💬 **[Community](https://pmgot.berga.top/about-us/)**
 ---
 **Get the most recent version of Aavegotchi: Gotchiverse today!**
+
+---
+**Last updated:** 2026-11-20 03:54:47 UTC
